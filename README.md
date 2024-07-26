@@ -1,12 +1,12 @@
 # RECETAS
 Proyecto de admisión a Kokoa
 
-#FrontEnd
+# FrontEnd
 React.js
 
-#BackEnd
+# BackEnd
 Express
 
-#API seleccionado
+# API seleccionado
 https://developer.edamam.com/es/api-recetas-edamam
 https://openfoodfacts.github.io/openfoodfacts-server/api/
